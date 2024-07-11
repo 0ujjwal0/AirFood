@@ -43,7 +43,7 @@ cd airfood-backend
 node server.js
 
 The backend server will be running at http://localhost:3000.
-or if you want to deploy the project then use this web service which is already hosted on render.com -->>https://airfood-project.onrender.com/api/meals put this api in the airfood-frontend>src>components>order.jsx replace localhost:3000/api/meals with above link
+or if you want to deploy the project then use this web service which is already hosted on render.com -->>https://airfoodbackend-production.up.railway.app/api/meals put this api in the airfood-frontend>src>components>order.jsx replace localhost:3000/api/meals with above link
 
 ## Start the Frontend
 
