@@ -42,8 +42,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/react-meal-selection-app.git
-cd react-meal-selection-app
+git clone https://github.com/0ujjwal0/airfood-assignment
 
 ### Install the dependencies
 npm install
