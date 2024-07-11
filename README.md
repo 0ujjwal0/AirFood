@@ -99,21 +99,21 @@ airfood-project/
 |   |-- server.js
 |--airfood-frontend/
 |   |-- public/
-├   |-- src/
-│       ├── components/
+|   |-- src/
+│       |-- components/
 |            |-- list/
-│               ├── Person.jsx
-│               ├── Tags.jsx
-│               ├── List.jsx
-│               ├── Total.jsx
+│               |-- Person.jsx
+│               |-- Tags.jsx
+│               |-- List.jsx
+│               |-- Total.jsx
 |            |-- home.jsx
 |            |-- nav.jsx
 |            |-- order.jsx
 │       |-- App.jsx
 │       |-- main.jsx
 |       |-- index.css
-|   |── package.json
-|   |── README.md
+|   |-- package.json
+|   |-- README.md
 |   |-- tailwind.config.js
 |   |--vite.config.js
 ```
