@@ -1,4 +1,4 @@
-# React Meal Selection App
+# AirFood - A React Meal Selection App
   ![app](https://github.com/0ujjwal0/airfood-assignment/blob/main/airfood-frontend/public/order.png)
 ## Overview
 
