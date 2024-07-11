@@ -1,5 +1,5 @@
 # React Meal Selection App
-
+  ![app](https://github.com/0ujjwal0/airfood-assignment/blob/main/airfood-frontend/public/order.png)
 ## Overview
 
 This project is a meal selection application built with React and a backend server using Node.js and Express. Users can select meals, view detailed information about each meal, and see the total price of selected items. The backend serves meal data in JSON format.
