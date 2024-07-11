@@ -7,10 +7,22 @@ This project is a meal selection application built with React and a backend serv
 ## Features
 
 - **Meal Selection:** Users can select and deselect meals.
+
+  ![home page]()
+  
 - **Tag Filtering:** Meals can be filtered by tags.
+
+  ![tagfilter](https://github.com/0ujjwal0/airfood-assignment/blob/main/airfood-frontend/public/order-ss.jpeg)
+
 - **Dynamic State Management:** Efficiently handles state for selected items and users.
 - **Responsive Design:** Fully responsive and mobile-friendly interface.
+
+  laptop screen=>
   ![laptop](https://github.com/0ujjwal0/airfood-assignment/blob/main/airfood-frontend/public/laptop-airfood.png)
+  Mobile screen=>
+  ![Alt text](https://github.com/0ujjwal0/airfood-assignment/blob/main/airfood-frontend/public/mobile-airfood.png)
+  tablet screen=>
+  ![Alt text](https://github.com/0ujjwal0/airfood-assignment/blob/main/airfood-frontend/public/tablet-airfood.png)
 - **Backend Integration:** Fetches meal data from a backend server.
 
 ## Technologies Used
