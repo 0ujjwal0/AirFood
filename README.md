@@ -7,8 +7,6 @@ This project is a meal selection application built with React and a backend serv
 ## Features
 
 - **Meal Selection:** Users can select and deselect meals.
-
-  ![home page]()
   
 - **Tag Filtering:** Meals can be filtered by tags.
 
